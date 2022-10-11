@@ -16,6 +16,6 @@ module.exports = function(obj, ...props) {
       error: errors.join(' ')
     };
   }
-  
+
   return null;
 };
